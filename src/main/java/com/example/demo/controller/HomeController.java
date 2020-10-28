@@ -25,7 +25,7 @@ public class HomeController {
 		
 		String formattedDate = df.format(date);
 		
-		model.addAttribute("serverTime", formattedDate);
+		model.addAttribute("serverTime1", formattedDate);
 		
 		return "home";
 	}
