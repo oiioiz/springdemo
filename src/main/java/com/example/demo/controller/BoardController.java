@@ -31,7 +31,7 @@ public class BoardController {
 		board.setBoardNo(1);
 		board.setTitle("가");
 		board.setContent("가나");
-		board.setWriter("가나다");
+		board.setWriter("가나다1");
 		board.setRegDate(new Date());
 		
 		boardList.add(board);
@@ -41,7 +41,7 @@ public class BoardController {
 		board.setBoardNo(1);
 		board.setTitle("a");
 		board.setContent("ab");
-		board.setWriter("abc");
+		board.setWriter("abcd33");
 		board.setRegDate(new Date());
 		
 		boardList.add(board);
