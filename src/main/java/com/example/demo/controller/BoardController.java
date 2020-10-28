@@ -41,7 +41,7 @@ public class BoardController {
 		board.setBoardNo(1);
 		board.setTitle("a");
 		board.setContent("ab");
-		board.setWriter("abc");
+		board.setWriter("abcd");
 		board.setRegDate(new Date());
 		
 		boardList.add(board);
